@@ -4,4 +4,4 @@
 ---
 - ## The map in the background is from Half-Life , a game i really enjoyed as a kid. Half-Life is probably the reason i love games and computers so much. 
 - ## From Half-life i started playing source engine based games , G-mod , Counter Strike 
-- 
+- 👾
