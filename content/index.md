@@ -3,14 +3,16 @@ title: Welcome to my root folder
 ---
 # Hello everyone
 ---
-![logo](content/images/logo.png)
-My name is dhanush , my username online goes by "dans".
+**This is a simple static blog page**
 
-
+- The only purpose of this website is for me to post my blogs and all other baggage that comes with that.
 ---
+# Simple index
 
-# Main pages:
-# Blog - >[[myblog]]
+# ![About Me][[aboutme]]]
+
+
+
 
 
 
