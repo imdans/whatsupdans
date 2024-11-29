@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Abandon all hope , ye who enter here. or dont. your choice.
 ---
-hello dans.
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+hello everyone
