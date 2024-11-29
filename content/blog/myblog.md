@@ -7,4 +7,3 @@ date: 2024-05-15
 
 --- 
 
-![imdans](blog/images/logo.png)
