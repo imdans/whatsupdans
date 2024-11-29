@@ -9,7 +9,8 @@ title: Welcome to my root folder
 ---
 # Simple index
 
-# ![About Me][[aboutme]]]
+# [[aboutme]]
+
 
 
 
