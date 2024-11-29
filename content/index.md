@@ -13,6 +13,13 @@ However , D-man sounds like a retired pimp.
 so dans it was.
 Anyways , enjoy your trip here. amigo
 
+---
+
+# Main pages:
+# Blog - >[[myblog]]
+
+
+
 
 
 
