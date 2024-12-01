@@ -3,9 +3,10 @@ title: Whats up stranger
 ---
 
 ---
-# Simple index
+# Navigator.
 
 # [[About-me 👾]] 
+
 
 
 
