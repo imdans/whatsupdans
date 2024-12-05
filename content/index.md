@@ -2,12 +2,14 @@
 title: Welcome to the coolest blog ever
 ---
 
-# Navigator.
+# Navigator 🗺️
+ 
+### Below are the hotlinks to visit the main pages of this website. 
 
 - # [[About-me 👾]]
 ---
-- # [[Blogs.]] 📜
----
+- # [[Blogs.]] 💻
+
 
 
 

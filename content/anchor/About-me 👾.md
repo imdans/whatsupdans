@@ -41,6 +41,6 @@ Years later if my device fully supports Linux , its still my OS of choice. and d
 
 # And finally , the purpose of this blog
 ---
-There is no purpose for this blog.
-i like writing and ranting and this is a very fun way of doing it.
+There is no grand purpose for this blog.
+i like writing and ranting and this is a very fun way of doing it. 
 i'll try writing about things i like every week or so and that's actually good enough purpose for me. 
