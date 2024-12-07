@@ -1,10 +1,10 @@
 ---
-title: Welcome to the coolest blog ever
+title: Homepage.
 ---
 
 # Navigator 🗺️
  
-### Below are the hotlinks to visit the main pages of this website. 
+## Below are the hotlinks to visit the main pages of this website. 
 
 - # [[About-me 👾]]
 ---
