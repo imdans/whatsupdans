@@ -1,10 +1,10 @@
 ---
-title: Homepage.
+title: Dans Notes.
 ---
 
-# Navigator 🗺️
- 
-## Below are the hotlinks to visit the main pages of this website. 
+# Navigator 🗺️ 
+---
+ Hello! Thanks for visiting this page. 
 
 - # [[About-me 👾]]
 ---
