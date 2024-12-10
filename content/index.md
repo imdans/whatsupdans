@@ -1,8 +1,8 @@
 ---
-title: Dans Notes.
+title: Navigator 🗺️
 ---
 
-# Navigator 🗺️ 
+
 ---
  Hello! Thanks for visiting this page. 
 
