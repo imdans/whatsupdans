@@ -1,7 +1,7 @@
-My static blog page made in quartz.
+# Static blog hosted on github pages , using quartz
+---
 
-here is the link for the blog :
-
+You can access the blog here : 
 https://imdans.github.io/whatsupdans/
 
 
